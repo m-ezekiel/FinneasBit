@@ -1,3 +1,8 @@
+# Other
+.DS_Store
+Functions/fitbitConfig.R
+MydataGraph.tiff
+
 # History files
 .Rhistory
 .Rapp.history
