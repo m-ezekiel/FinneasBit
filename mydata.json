@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Oct 2017 22:58:06 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Origin,Accept-Encoding
+Cache-control: no-cache, private
+Content-Language: en
+Fitbit-Rate-Limit-Limit: 150
+Fitbit-Rate-Limit-Remaining: 150
+Fitbit-Rate-Limit-Reset: 114
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare-nginx
+CF-RAY: 3b38c755680c5879-DFW
+
+{"activities-heart":[{"customHeartRateZones":[{"caloriesOut":0,"max":40,"min":30,"minutes":0,"name":"Below"},{"caloriesOut":7.22862,"max":200,"min":40,"minutes":11,"name":"Custom Zone"},{"caloriesOut":0,"max":220,"min":200,"minutes":0,"name":"Above"}],"dateTime":"2017-10-25","heartRateZones":[{"caloriesOut":1.26214,"max":94,"min":30,"minutes":1,"name":"Out of Range"},{"caloriesOut":5.96648,"max":132,"min":94,"minutes":10,"name":"Fat Burn"},{"caloriesOut":0,"max":160,"min":132,"minutes":0,"name":"Cardio"},{"caloriesOut":0,"max":220,"min":160,"minutes":0,"name":"Peak"}],"value":"104.45"}],"activities-heart-intraday":{"dataset":[{"time":"09:08:00","value":102},{"time":"09:09:00","value":105},{"time":"09:10:00","value":109},{"time":"09:19:00","value":105},{"time":"09:27:00","value":103},{"time":"09:30:00","value":104},{"time":"09:31:00","value":115},{"time":"09:32:00","value":115},{"time":"09:42:00","value":103},{"time":"09:51:00","value":93},{"time":"09:52:00","value":95}],"datasetInterval":1,"datasetType":"minute"}}
